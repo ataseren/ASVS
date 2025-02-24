@@ -138,7 +138,7 @@ Note that if using the id-token flow (not the code flow), no access tokens are i
 For more information on OAuth, please see:
 
 * [oauth.net](https://oauth.net/)
-* [OWASP Cheat Sheet: OAuth 2.0 Protocol Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/OAuth2_Cheat_Sheet.html)
+* [OWASP Cheat Sheet: OAuth 2.0 Protocol Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/OAuth2_Cheat_Sheet.html)
 
 For OAuth-related requirements in ASVS following published and in draft status RFC-s are used:
 
